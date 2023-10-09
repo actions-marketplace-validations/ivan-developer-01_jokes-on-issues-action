@@ -3,7 +3,7 @@
 
 ## [See demo](https://github.com/ivan-developer-01/jokes-on-issues-action/issues/1#issuecomment-1748213160)
 ![demo](https://github.com/ivan-developer-01/jokes-on-issues-action/assets/127977316/96fb8823-18c2-45ad-b2cb-d8db9a19c121)
-**
+
 
 <!-- ## [subscribe to service updates](https://github.com/deep5050/jokes-on-issues-action/issues/2) -->
 ## How to use
