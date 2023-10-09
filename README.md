@@ -1,8 +1,9 @@
 ![jokes-on-issues-action](https://socialify.git.ci/ivan-developer-01/jokes-on-issues-action/image?description=1&descriptionEditable=Greet%20the%20issue%20raiser%20with%20a%20customizable%20message%20and%20a%20bonus%20programming%20joke%20&font=KoHo&forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Light)
 
 
-<!-- ## [See demo](https://github.com/deep5050/jokes-on-issues-action/issues/1#issuecomment-728134188) -->
-<!-- ![demo](https://user-images.githubusercontent.com/27947066/99762392-6812ae00-2b1e-11eb-9e7f-e2040ed0a843.png) -->
+## [See demo](https://github.com/ivan-developer-01/jokes-on-issues-action/issues/1#issuecomment-1748213160)
+![demo](https://github.com/ivan-developer-01/jokes-on-issues-action/assets/127977316/96fb8823-18c2-45ad-b2cb-d8db9a19c121)
+**
 
 <!-- ## [subscribe to service updates](https://github.com/deep5050/jokes-on-issues-action/issues/2) -->
 ## How to use
